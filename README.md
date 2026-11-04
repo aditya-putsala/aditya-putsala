@@ -20,7 +20,6 @@ I'm an electronics engineer from IIT Bhubaneswar who moved full-time into **Data
 
 My competitive-programming background (Codeforces Expert) gives me a strong algorithmic mindset, and I'm currently deepening my skills in deep learning, MLOps, NLP and computer vision through the Scaler Data Science and Machine Learning program.
 
-📍 Hyderabad, India
 
 ---
 
@@ -29,7 +28,7 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 | | Achievement |
 |:-:|-------------|
 | 🏅 | **Codeforces Expert** with a contest rating of **1688** |
-| 🎯 | **Qualified the UPSC Engineering Services Examination (ESE) Prelims**, placing in the **top 2.5% of 200,000+ candidates** |
+| 🎯 | **Qualified the UPSC Prelims**, placing in the **top 2.5% of 200,000+ candidates** |
 | 🎓 | **B.Tech in Electronics and Communication Engineering, IIT Bhubaneswar**, with minors in Statistics and Computer Science |
 | 📜 | **4 certifications from the Scaler Data Science and Machine Learning program**: Advanced Supervised Algorithms, Unsupervised Learning and RecSys, Deep Learning and Neural Networks, and MLOps |
 | ⚡ | Cut registration time by **more than 2 minutes** and built phone-number validation for **15 international markets** as a front-end developer intern |
