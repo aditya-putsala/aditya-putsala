@@ -7,7 +7,7 @@
 **IIT Bhubaneswar** graduate · **Codeforces Expert** · Python, SQL and Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-putsala/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%201688-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Leaky_Bucket)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20%7C%201714-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Leaky_Bucket)
 ![Open to work](https://img.shields.io/badge/Open%20to-Data%20Scientist%20%2F%20ML%20Engineer%20roles-2EA44F)
 
 </div>
@@ -35,8 +35,8 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 | 🤝 | Led NSS (National Service Scheme) drives that cleared **950 kg of waste** from two villages and organised health camps collecting **500+ litres of donated blood** |
 
 <p align="center">
-  <img src="assets/codeforces-expert.png" width="720" alt="Codeforces Expert profile with a contest rating of 1714">
-  <br><sub><b>Codeforces rating progression</b> (Expert, 1688)</sub>
+  <img src="assets/codeforces-expert.png" width="820" alt="Codeforces Expert profile with a contest rating of 1714">
+  <br><sub><b>Codeforces rating progression</b> (Expert, 1714)</sub>
 </p>
 
 ---
