@@ -35,7 +35,7 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 | 🤝 | Led NSS (National Service Scheme) drives that cleared **950 kg of waste** from two villages and organised health camps collecting **500+ litres of donated blood** |
 
 <p align="center">
-  <img src="assets/codeforces-expert.png" width="620" alt="Codeforces Expert profile with a contest rating of 1688 and rating progression graph">
+  <img src="assets/codeforces-expert.png" width="720" alt="Codeforces Expert profile with a contest rating of 1714">
   <br><sub><b>Codeforces rating progression</b> (Expert, 1688)</sub>
 </p>
 
