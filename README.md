@@ -27,7 +27,7 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 
 | | Achievement |
 |:-:|-------------|
-| 🏅 | **Codeforces Expert** with a contest rating of **1688** |
+| 🏅 | **Codeforces Expert** with a contest rating of **1714** |
 | 🎯 | **Qualified the UPSC Prelims**, placing in the **top 2.5% of 200,000+ candidates** |
 | 🎓 | **B.Tech in Electronics and Communication Engineering, IIT Bhubaneswar**, with minors in Statistics and Computer Science |
 | 📜 | **4 certifications from the Scaler Data Science and Machine Learning program**: Advanced Supervised Algorithms, Unsupervised Learning and RecSys, Deep Learning and Neural Networks, and MLOps |
@@ -56,12 +56,6 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 | **Sanity check** | For *Liar Liar*, Pearson and KNN both return the same slapstick-comedy cluster: *Mrs. Doubtfire*, *Dumb & Dumber*, *Ace Ventura: Pet Detective* |
 | **Extras** | Learned user and movie embeddings, projected to 2D with PCA for visualisation |
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/zee_rating_distribution.png" width="400" alt="Distribution of movie ratings"><br><sub><b>Ratings skew positive:</b> 4 stars is the most common</sub></td>
-    <td align="center"><img src="assets/zee_movie_embeddings_2d.png" width="400" alt="2D projection of SVD movie embeddings"><br><sub><b>Movie embeddings</b> learned by SVD, projected to 2D</sub></td>
-  </tr>
-</table>
 
 **Tech:** `Python` `pandas` `NumPy` `scikit-learn` `SciPy` `scikit-surprise` `Matplotlib` `Seaborn`
 
@@ -88,12 +82,6 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 - 👶 Content for young kids is just **7.7%** of the catalogue, and only about **6%** of titles are older than 2000.
 - 🗓️ **July and December** are the busiest months for additions, and **February** is the quietest.
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/netflix_content_added_by_year.png" width="400" alt="Titles added to Netflix per year"><br><sub><b>Titles added per year</b>, peaking in 2019</sub></td>
-    <td align="center"><img src="assets/netflix_country_age_group_percent.png" width="400" alt="Audience mix by country as a heatmap"><br><sub><b>Audience mix within each country's catalogue (%)</b></sub></td>
-  </tr>
-</table>
 
 **Tech:** `Python` `pandas` `NumPy` `Matplotlib` `Seaborn`
 
