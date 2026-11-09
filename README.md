@@ -63,7 +63,7 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 
 ---
 
-### 📺 [Netflix Business Case Study](https://github.com/Aditya-Putsala/Business_Case_Netflix)
+### 📺 [Netflix Business Case Study](https://github.com/aditya-putsala/netflix-data-exploration-and-visualization)
 
 **A data-driven content strategy for Netflix: what to produce and where to grow, based on 8,797 titles.**
 
@@ -85,7 +85,7 @@ My competitive-programming background (Codeforces Expert) gives me a strong algo
 
 **Tech:** `Python` `pandas` `NumPy` `Matplotlib` `Seaborn`
 
-[**View the project →**](https://github.com/Aditya-Putsala/Business_Case_Netflix)
+[**View the project →**](https://github.com/aditya-putsala/netflix-data-exploration-and-visualization)
 
 ---
 
